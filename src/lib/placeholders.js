@@ -81,7 +81,7 @@ const PLACEHOLDERS = {
           },
           id: 'gid://shopify/MediaImage/29259478368312',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db6f2661c32ca2cf946_Shot_06_014_R.jpg',
             width: 2500,
             height: 2500,
           },
@@ -90,13 +90,13 @@ const PLACEHOLDERS = {
       spreadSecondary: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A snow covered lodge is illuminated by lights at night with a dark starry sky and mountain backdrop.',
+          alt: 'Footjoy products featured in a Shopify Hydrogen App',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32dad25162f03b9999c9b_6yd76cY8.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478401080',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db5e2eba7805c0ba484_54314_WT01_004.jpg',
             width: 2500,
             height: 2500,
           },
