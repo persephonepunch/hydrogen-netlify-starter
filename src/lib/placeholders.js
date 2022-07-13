@@ -29,11 +29,11 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'A snowboarder standing on a mountain top in choppy snow, shows off the back of his snowboard which reads Hydrogen in a cursive script.',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db63a6b3e55aad0cea2_Shot_19_023_R.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478499384',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db64f4b5869cfa0f5e3_Shot_11_071_R.jpg',
             width: 2500,
             height: 3155,
           },
