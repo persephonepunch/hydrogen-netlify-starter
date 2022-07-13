@@ -14,7 +14,7 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'Tracks in the snow leading to a person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db6eee8e158e06ba5a5_Still_Life_049_R.jpg',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db771093329b45ebc1e_Still_Life_031_R.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
@@ -54,11 +54,11 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'Three young women in snowboarding attire embracing and laughing while snow falls around them',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db6eee8e158e06ba5a5_Still_Life_049_R.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478302776',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db771093329b45ebc1e_Still_Life_031_R.jpg',
             width: 5000,
             height: 2500,
           },
@@ -77,7 +77,7 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'A skier hikes up a mountain through the snow with skis over their shoulder.',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db6fbf4df67b4664f80_Shot_19_039_R.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478368312',
           image: {
