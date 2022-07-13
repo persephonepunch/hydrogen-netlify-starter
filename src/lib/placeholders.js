@@ -14,11 +14,11 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'Tracks in the snow leading to a person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://cdn.shopify.com/s/files/1/https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db6eee8e158e06ba5a5_Still_Life_049_R.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://uploads-ssl.webflow.com/62b319f8ecc7b524e7a15fd7/62b32db5ecc7b57c57a20258_Shot_03_053_R.jpg',
             width: 2500,
             height: 3155,
           },
