@@ -30,10 +30,11 @@
   }
 }
 
-y-iframe{
+.y-iframe{
   height: calc (100vh-95px) !important;
   width: 100% !important;
-  min-height: 100 vh;
+  display: relative;
+
 }
 
 @media (prefers-color-scheme: dark) {

@@ -24,8 +24,8 @@ export function Hero({
             : 'aspect-[4/5] sm:aspect-square md:aspect-[5/4] lg:aspect-[3/2] xl:aspect-[2/1]'
         }`}
       >
-        <iframe name="footjoy" className="y-iframe" src="https://footjoy2.netlify.app/"></iframe>
-        <div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
+        <iframe name="footjoy" className="y-iframe min-h-screen" src="https://footjoy2.netlify.app/"></iframe>
+        <div className="relative inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
           {spread?.reference && (
             <div className="">
               <SpreadMedia
