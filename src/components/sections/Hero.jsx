@@ -32,7 +32,7 @@ export function Hero({
 </div>
     
        
-/**<div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
+<div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
           {spread?.reference && (
             <div className="">
               <SpreadMedia
@@ -82,7 +82,7 @@ export function Hero({
     </Link>
   );
 }
-*/
+
 
 function SpreadMedia({data, loading, scale, sizes, width, widths}) {
   if (data.mediaContentType === 'VIDEO') {
