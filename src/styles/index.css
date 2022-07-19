@@ -33,6 +33,7 @@
 .y-iframe{
   min-height: calc (100vh) !important;
   width: 100% !important;
+  display: relative;
  
 
 }
