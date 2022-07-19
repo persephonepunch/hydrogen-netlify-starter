@@ -31,9 +31,9 @@
 }
 
 .y-iframe{
-  height: calc (100vh-95px) !important;
+  min-height: calc (100vh) !important;
   width: 100% !important;
-  display: relative;
+ 
 
 }
 

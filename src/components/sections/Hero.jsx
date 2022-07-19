@@ -14,6 +14,8 @@ export function Hero({
   top,
 }) {
   return (
+
+    
     <Link to={`/collections/${handle}`}>
       <section
         className={`relative justify-end flex flex-col w-full ${
@@ -24,12 +26,13 @@ export function Hero({
             : 'aspect-[4/5] sm:aspect-square md:aspect-[5/4] lg:aspect-[3/2] xl:aspect-[2/1]'
         }`}
       >
-        <div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
+            <div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
 
-        <iframe name="footjoy" className="y-iframe min-h-screen" src="https://footjoy2.netlify.app/"></iframe>
-       </div>
+<iframe name="footjoy" className="y-iframe" src="https://footjoy2.netlify.app/"></iframe>
+</div>
+    
        
-        <div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
+/**<div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
           {spread?.reference && (
             <div className="">
               <SpreadMedia
@@ -79,6 +82,7 @@ export function Hero({
     </Link>
   );
 }
+*/
 
 function SpreadMedia({data, loading, scale, sizes, width, widths}) {
   if (data.mediaContentType === 'VIDEO') {
