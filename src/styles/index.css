@@ -32,7 +32,8 @@
 
 y-iframe{
   height: calc (100vh-95px) !important;
-  width: 100% !important
+  width: 100% !important;
+  min-height: 100 vh;
 }
 
 @media (prefers-color-scheme: dark) {
