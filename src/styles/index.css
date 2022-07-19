@@ -30,6 +30,11 @@
   }
 }
 
+y-iframe{
+  height: calc (100vh-95px) !important;
+  width: 100% !important
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --color-primary: 250 250 250;
