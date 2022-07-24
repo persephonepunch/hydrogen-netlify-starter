@@ -34,7 +34,11 @@ export default function AllProducts() {
           }}
         />
       </Suspense>
-      <PageHeader heading="All Products" variant="allCollections" />
+      <PageHeader heading="All Products" variant="allCollections"
+      
+    
+      
+      />
       <Section>
         <ProductGrid
           key="products"
