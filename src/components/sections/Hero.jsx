@@ -34,7 +34,7 @@ export function Hero({
 <div>
 <Iframe url="https://footjoy2.netlify.app/"
         id="myId"
-        className="h-screen w-full"
+        className="h-screen w-full mt-300"
         display="initial"
         position="relative"/>
 
@@ -43,8 +43,8 @@ export function Hero({
 </div>
 
 
-
-<div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
+{/* 
+<div className="relative inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
           {spread?.reference && (
             <div className="">
               <SpreadMedia
@@ -75,7 +75,7 @@ export function Hero({
               />
             </div>
           )}
-        </div>
+        </div> */}
    
         <div className="flex flex-col items-baseline justify-between gap-4 px-6 py-8 sm:px-8 md:px-12 bg-gradient-to-t dark:from-contrast/60 dark:text-primary from-primary/60 text-contrast">
           {heading?.value && (
