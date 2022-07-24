@@ -33,10 +33,8 @@ export function Hero({
        
 <div>
 <Iframe url="https://footjoy2.netlify.app/"
-        width="100%"
-        height="1999px"
         id="myId"
-        className="myClassname"
+        className="h-screen w-full"
         display="initial"
         position="relative"/>
 
