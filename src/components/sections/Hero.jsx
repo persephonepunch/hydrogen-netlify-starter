@@ -1,9 +1,21 @@
 import {Image, Link, Video} from '@shopify/hydrogen';
 
 import {Heading, Text} from '~/components';
-
 import Iframe from 'react-iframe'
 
+
+<div>
+<Iframe url="https://footjoy2.netlify.app/"
+        id="myId"
+        className="h-screen w-full mt-300"
+        display="initial"
+        position="relative"/>
+
+
+
+</div>
+
+{/* 
 export function Hero({
   byline,
   cta,
@@ -31,19 +43,10 @@ export function Hero({
 
     
        
-<div>
-<Iframe url="https://footjoy2.netlify.app/"
-        id="myId"
-        className="h-screen w-full mt-300"
-        display="initial"
-        position="relative"/>
 
 
 
-</div>
 
-
-{/* 
 <div className="relative inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
           {spread?.reference && (
             <div className="">

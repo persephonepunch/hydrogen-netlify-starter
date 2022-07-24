@@ -1,12 +1,14 @@
 import React from 'react'
+import Iframe from 'react-iframe'
 
-function iframe() {
-  return (
-    <div className="absolute inset-0 grid flex-grow grid-flow-col pointer-events-none auto-cols-fr -z-10 content-stretch overflow-clip">
 
-    <iframe name="footjoy" className="y-iframe" src="https://footjoy2.netlify.app/"></iframe>
-    </div>
-  )
-}
+<div>
+<Iframe url="https://footjoy2.netlify.app/"
+        id="myId"
+        className="h-screen w-full mt-300"
+        display="initial"
+        position="relative"/>
 
-export default iframe
+
+
+</div>
